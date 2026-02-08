@@ -33,7 +33,7 @@ grades = np.where(
 
 print("\n Grade Distribution:-")
 for i,grade in enumerate(grades):
-    print(f"Student roll no {i+1}  Marks : {marks[i]} -> Grade {grades}")
+    print(f"Student roll no {i+1}  Marks : {marks[i]} -> Grade {grade}")
 
 #Normalization (0 to 1 scaling)
 normalized = (marks - lowest)/(highest - lowest) 

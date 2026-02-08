@@ -12,6 +12,11 @@ A beginner-friendly mini project using **Python + NumPy**.
 - Python
 - NumPy
 
+## Sample Output
+
+![Project Output](assets/output.png)
+
+
 ## How to Run
 
 ```bash
